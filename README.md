@@ -1,2 +1,2 @@
-# Teste
- Projeto de teste usando versionamento GIT e GitHub
+# Olá, Mundo!
+ Primeiro projeto usando versionamento GIT e GitHub.
